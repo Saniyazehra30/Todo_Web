@@ -1,0 +1,86 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --color : grey;
+}
+
+nav {
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    padding: 2rem;
+    justify-content: space-around;
+    background-color: aqua;
+}
+
+#main {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-size: 2rem;
+    letter-spacing: 7px;
+}
+
+#main2 {
+    letter-spacing: 4.2px;
+    font-weight: 700;
+    color: var(--color);
+    font-size: .8rem;
+}
+
+.nav_optns {
+    display: flex;
+    color: var(--color);
+    font-weight: 700;
+    padding: 1rem;
+}
+
+.nav_optns div {
+    margin-left: 1rem;
+}
+
+.get_btn {
+    color: var(--color);
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    border: 3px solid var(--color);
+    padding: 1.2rem;
+}*/
+.h1new{
+color: purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
